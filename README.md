@@ -6,10 +6,6 @@ This is my personal portfolio website built with **HTML, CSS, and JavaScript** t
 - CSS3  
 - JavaScript  
 
-###  Preview:
-
-
-
 ### 📂 Features:
 - About Me section  
 - Skills & Tools  
